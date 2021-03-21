@@ -1,1 +1,4 @@
-Пожалуйста оставь меня 
+
+mynewcommit
+result
+
